@@ -7,7 +7,6 @@ package Original_Code;
 //Missing import statements - Raghad aSkool 2110645
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-import java.io.IOException;
 
 /**
  *
